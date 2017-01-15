@@ -1,0 +1,43 @@
+
+
+
+body {
+	background: url(http://solografix.com/images/gray.jpg);
+	font-family:Helvetica, Arial, sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	padding: .5em;
+	Width: 90%;
+}
+
+.standard {
+	margin: -.25em 1em;
+}
+
+ .Project:hover {
+	filter: none;
+	transition: .5s ease-in-out;
+}
+
+.Project {
+	Background: #e7e7e7;
+	font-size: 1em;
+	padding: .5em;
+	filter: blur(2px);
+}
+
+.soon {
+	Background: #e7e7e7;
+	font-size: 1em;
+	padding: .5em;
+	filter: blur(4px);
+	
+}
+
+.textbox {
+	Background: #e7e7e7;
+	font-size: 1em;
+	padding: .5em;
+	filter: None;
+	box-shadow: 5px 5px 5px #3a5252;
+}

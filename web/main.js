@@ -1,0 +1,5 @@
+
+
+function press() {
+			alert("Clicked!");
+		}
