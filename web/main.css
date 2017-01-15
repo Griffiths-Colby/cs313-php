@@ -75,3 +75,9 @@ li a:hover {
 	filter: None;
 	box-shadow: 5px 5px 5px #3a5252;
 }
+
+.family {
+	
+	width: 40%;
+	height: auto;
+}
