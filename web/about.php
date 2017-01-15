@@ -44,6 +44,7 @@
                 
 			<div class="textbox">
 				<h1>About Me</h1>
+					
 					<p><span>My Name-</span> The Company is Solografix (One graphics).  It implies that you only need one company 
 					to take care of all your website, advertising, and graphic design needs...and me? My name is Colby.</p>
 					
@@ -60,6 +61,11 @@
 					<p><span>Why do I keep saying "We"?</span> Solografix is more than just a one man show.  Even though the about me page highlights 
 					me, the founder, there are others who work with me.  Don't worry, however, the quality of work will be just like you have always come to 
 					expect from our previous interactions.</p>
+				
+				<h2>My Family</h2>
+				
+					<img src="images/Family2016.jpg"></img>
+				
 			</div>
 	
 		</main>
