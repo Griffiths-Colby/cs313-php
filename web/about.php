@@ -64,7 +64,7 @@
 				
 				<h2>My Family</h2>
 				
-					<img src="images/Family2016.jpg"></img>
+					<img class= "family" src="images/Family2016.jpg"></img>
 				
 			</div>
 	
