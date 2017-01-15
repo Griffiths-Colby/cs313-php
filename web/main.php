@@ -54,10 +54,6 @@
 					by expanding the online presence of the business.  I will also incorporate my learning by becoming the in house information technology 
 					specialist in our company.  I would also like to learn more computer programming.  I would like to learn 
 					enough to be able to create apps for Android, Apple, and Windows based devices.</p>
-					
-					<p><span>Why do I keep saying "We"?</span> Solografix is more than just a one man show.  Even though the about me page highlights 
-					me, the founder, there are others who work with me.  Don't worry, however, the quality of work will be just like you have always come to 
-					expect from our previous interactions.</p>
 			</div>
 		</main>
 	</body>

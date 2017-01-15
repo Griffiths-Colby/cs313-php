@@ -1,8 +1,12 @@
 
 
+											/*     	*******************************
+													BEGIN UNIVERSAL SITE STYLING
+													*******************************
+											*/
 
 body {
-	background: url(http://solografix.com/images/gray.jpg);
+	background: url(/images/gray.jpg);
 	font-family:Helvetica, Arial, sans-serif;
 	margin-left: auto;
 	margin-right: auto;
@@ -10,6 +14,22 @@ body {
 	Width: 90%;
 }
 
+h1 {
+	margin: .5em;
+}
+
+.textbox {
+	Background: #e7e7e7;
+	font-size: 1em;
+	padding: 1em;
+	box-shadow: 5px 5px 5px #3a5252;
+}
+											
+											/*     	*******************************
+													END UNIVERSAL SITE STYLING
+													*******************************
+											*/
+							
 											/*     	*******************************
 													BEGIN NAVIGATION STYLING
 													*******************************
@@ -21,6 +41,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+	box-shadow: 5px 5px 5px #3a5252;
 }
 
 li {
@@ -43,37 +64,38 @@ li a:hover {
 													END NAVIGATION STYLING
 													*******************************
 											*/
-
-.standard {
-	margin: -.25em 1em;
-}
-
- .Project:hover {
+																
+.Project1:hover, .Project2:hover, .Project3:hover, .Project4:hover {
 	filter: none;
 	transition: .5s ease-in-out;
 }
 
-.Project {
+.Project1 {
 	Background: #e7e7e7;
 	font-size: 1em;
 	padding: .5em;
-	filter: blur(2px);
+	filter: blur(6px);
 }
 
-.soon {
-	Background: #e7e7e7;
+.Project2 {
+	Background: #cfcfcf;
 	font-size: 1em;
 	padding: .5em;
-	filter: blur(4px);
-	
+	filter: blur(6px);
 }
 
-.textbox {
-	Background: #e7e7e7;
+.Project3 {
+	Background: #b8b8b8;
 	font-size: 1em;
 	padding: .5em;
-	filter: None;
-	box-shadow: 5px 5px 5px #3a5252;
+	filter: blur(6px);
+}
+
+.Project4 {
+	Background: #a1a1a1;
+	font-size: 1em;
+	padding: .5em;
+	filter: blur(6px);
 }
 
 .family {

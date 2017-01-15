@@ -41,23 +41,23 @@
 		</nav>
 		
 		<main>
-	  <div class="Project">
-				<h1 class="standard">Project 1</h1><h1 class="soon">Coming Soon!</h1>
+	  <div class="Project1">
+				<h1>Coming Soon! --Project 1--</h1>
 						<p>Project will be started soon</p>
 	  </div>
 	  
-	  <div class="Project">
-				<h1 class="standard">Project 2</h1><h1 class="soon">Coming Soon!</h1>		
+	  <div class="Project2">
+				<h1>Coming Soon! --Project 2--</h1>		
 						<p>Project will be started soon</p>
 	  </div>
 	  
-	  <div class="Project">
-				<h1 class="standard">Project 3</h1><h1 class="soon">Coming Soon!</h1>		
+	  <div class="Project3">
+				<h1>Coming Soon! --Project 3--</h1>		
 						<p>Project will be started soon</p>
 	  </div>
 	  
-	  <div class="Project">
-				<h1 class="standard">Project 4</h1><h1 class="soon">Coming Soon!</h1>	
+	  <div class="Project4">
+				<h1>Coming Soon! --Project 4--</h1>	
 						<p>Project will be started soon</p>
 	  </div>
 		</main>

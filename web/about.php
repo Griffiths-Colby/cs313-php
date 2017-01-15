@@ -45,24 +45,20 @@
 			<div class="textbox">
 				<h1>About Me</h1>
 					
-					<p><span>My Name-</span> The Company is Solografix (One graphics).  It implies that you only need one company 
+					<p><h3>My Name-</h3> The Company is Solografix (One graphics).  It implies that you only need one company 
 					to take care of all your website, advertising, and graphic design needs...and me? My name is Colby.</p>
 					
-					<p><span class="prompt">Who am I?</span> I am currently a student at Brigham Young University-Idaho.  I recently decided
+					<p><h3>Who am I?</h3> I am currently a student at Brigham Young University-Idaho.  I recently decided
 					to go back to school to further improve myself and to learn more about the always changing and ever improving computer 
-					technology that surrounds us everywhere today.  I am currently working towards a Bachelors degree in Computer Information Technology
-					with a minor in Web Design and Development. I will help you in any way I can.</p>
+					technology that surrounds us everywhere today.  I am currently working towards a Bachelors degree in Web Design & Development. 
+					I will help you in any way I can.</p>
 					
-					<p><span>What are my goals?</span> I plan to incorporate much of what I am learning into the current company I work for 
+					<p><h3>What are my goals?</h3> I plan to incorporate much of what I am learning into the current company I work for 
 					by expanding the online presence of the business.  I will also incorporate my learning by becoming the in house information technology 
 					specialist in our company.  I would also like to learn more computer programming.  I would like to learn 
 					enough to be able to create apps for Android, Apple, and Windows based devices.</p>
-					
-					<p><span>Why do I keep saying "We"?</span> Solografix is more than just a one man show.  Even though the about me page highlights 
-					me, the founder, there are others who work with me.  Don't worry, however, the quality of work will be just like you have always come to 
-					expect from our previous interactions.</p>
-				
-				<h2>My Family</h2>
+								
+				<h3>My Family</h3>
 				
 					<img class= "family" src="images/Family2016.jpg"></img>
 				
