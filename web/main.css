@@ -18,6 +18,10 @@ h1 {
 	margin: .5em;
 }
 
+p {
+	margin: 1em;
+}
+
 .textbox {
 	Background: #e7e7e7;
 	font-size: 1em;
@@ -64,6 +68,20 @@ li a:hover {
 													END NAVIGATION STYLING
 													*******************************
 											*/
+											
+.logo {
+	display: block;
+	width:100%;
+	height: auto;
+	margin: 0 auto 1.5em;
+}
+											
+.binary {
+	display: block;
+	width:100%;
+	height: auto;
+	margin: 1.5em auto;
+}
 																
 .Project1:hover, .Project2:hover, .Project3:hover, .Project4:hover {
 	filter: none;

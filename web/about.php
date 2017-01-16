@@ -19,6 +19,7 @@
 	</head>
 
 	<body>
+		<img class="logo" src="images/CS313Logo.png"></img>
 		<nav>
 			<ul class="mainnav">
 				<li>
@@ -65,7 +66,7 @@
 			</div>
 	
 		</main>
-	  
+		<img class="binary" src="images/binaryhalf.png"></img>
 	</body>
 	
 </html>

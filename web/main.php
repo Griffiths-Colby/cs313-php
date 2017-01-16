@@ -19,6 +19,7 @@
 	</head>
 
 	<body>
+		<img class="logo" src="images/CS313Logo.png"></img>
 		<nav>
 			<ul class="mainnav">
 				<li>
@@ -40,7 +41,7 @@
 		
 		</nav>
 		<main>
-	  <div class="textbox">
+			<div class="textbox">
 				<h1>Home Page</h1>
 					<p><span>My Name-</span> The Company is Solografix (One graphics).  It implies that you only need one company 
 					to take care of all your website, advertising, and graphic design needs...and me? My name is Colby.</p>
@@ -56,6 +57,7 @@
 					enough to be able to create apps for Android, Apple, and Windows based devices.</p>
 			</div>
 		</main>
+		<img class="binary" src="images/binaryhalf.png"></img>
 	</body>
 	
 </html>

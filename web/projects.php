@@ -19,6 +19,7 @@
 	</head>
 
 	<body>
+		<img class="logo" src="images/CS313Logo.png"></img>
 		<nav>
 			<ul class="mainnav">
 				<li>
@@ -61,6 +62,7 @@
 						<p>Project will be started soon</p>
 	  </div>
 		</main>
+		<img class="binary" src="images/binaryhalf.png"></img>
 	</body>
 	
 </html>
