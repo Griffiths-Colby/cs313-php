@@ -46,11 +46,11 @@
 		<main>
 			<div class="textbox">
 				<h1>Home Page</h1>
-					<div class ="Project2"><p>Some days I feel like the code just makes sense and is in perfect order...</p></div>
+					<div class ="text2"><p>Some days I feel like the code just makes sense and is in perfect order...</p></div>
 					
-					<div class ="Project3"><p>...and other days the code is abstract and a jumbled mess...</p></div>
+					<div class ="text3"><p>...and other days the code is abstract and a jumbled mess...</p></div>
 					
-					<div class ="Project4"><p>...the best part about it?  It is all mine.  Sometimes perfect, sometimes abstract, but always me. </p></div>
+					<div class ="text4"><p>...the best part about it?  It is all mine.  Sometimes perfect, sometimes abstract, but always me. </p></div>
 			</div>
 		</main>
 		<img class="binary" src="images/binaryhalf.png"></img>

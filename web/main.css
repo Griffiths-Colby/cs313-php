@@ -86,6 +86,34 @@ li.login {
 	height: auto;
 	margin: 1.5em auto;
 }
+
+.text1 {
+	
+	Background: #e7e7e7;
+	font-size: 1em;
+	padding: .5em;
+}
+
+.text2 {
+	
+	Background: #cfcfcf;
+	font-size: 1em;
+	padding: .5em;
+}
+
+.text3 {
+	
+	Background: #b8b8b8;
+	font-size: 1em;
+	padding: .5em;
+}
+
+.text4 {
+	
+	Background: #a1a1a1;
+	font-size: 1em;
+	padding: .5em;
+}
 																
 .Project1:hover, .Project2:hover, .Project3:hover, .Project4:hover {
 	filter: none;
