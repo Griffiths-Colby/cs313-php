@@ -46,7 +46,7 @@
 			<div class="textbox">
 				<h1>About Me</h1>
 					
-					<p><h3>My Name-</h3> The Company is Solografix (One graphics).  It implies that you only need one company 
+					<p><h3>My Name-</h3> My company is Solografix (One graphics).  It implies that you only need one company 
 					to take care of all your website, advertising, and graphic design needs...and me? My name is Colby.</p>
 					
 					<p><h3>Who am I?</h3> I am currently a student at Brigham Young University-Idaho.  I recently decided

@@ -41,7 +41,7 @@
 		
 		</nav>
 		
-		<main>
+		<main id="projectpage">
 	  <div class="Project1">
 				<h1>Coming Soon! --Project 1--</h1>
 						<p>Project will be started soon</p>

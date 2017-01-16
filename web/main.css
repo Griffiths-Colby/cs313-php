@@ -64,6 +64,10 @@ li a:hover {
     background-color: #111;
 }
 
+li.login {
+	float: right;
+}
+
 											/*     	*******************************
 													END NAVIGATION STYLING
 													*******************************
@@ -88,28 +92,28 @@ li a:hover {
 	transition: .5s ease-in-out;
 }
 
-.Project1 {
+#projectpage .Project1 {
 	Background: #e7e7e7;
 	font-size: 1em;
 	padding: .5em;
 	filter: blur(6px);
 }
 
-.Project2 {
+#projectpage .Project2 {
 	Background: #cfcfcf;
 	font-size: 1em;
 	padding: .5em;
 	filter: blur(6px);
 }
 
-.Project3 {
+#projectpage .Project3 {
 	Background: #b8b8b8;
 	font-size: 1em;
 	padding: .5em;
 	filter: blur(6px);
 }
 
-.Project4 {
+#projectpage .Project4 {
 	Background: #a1a1a1;
 	font-size: 1em;
 	padding: .5em;

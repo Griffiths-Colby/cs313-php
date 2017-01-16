@@ -37,24 +37,20 @@
 				<li>
 					<a href="about.php">About Me</a>
 				</li>
+				<li class="login">
+					<a href="#">Login</a>
+				</li>
 			</ul>
 		
 		</nav>
 		<main>
 			<div class="textbox">
 				<h1>Home Page</h1>
-					<p><span>My Name-</span> The Company is Solografix (One graphics).  It implies that you only need one company 
-					to take care of all your website, advertising, and graphic design needs...and me? My name is Colby.</p>
+					<div class ="Project2"><p>Some days I feel like the code just makes sense and is in perfect order...</p></div>
 					
-					<p><span class="prompt">Who am I?</span> I am currently a student at Brigham Young University-Idaho.  I recently decided
-					to go back to school to further improve myself and to learn more about the always changing and ever improving computer 
-					technology that surrounds us everywhere today.  I am currently working towards a Bachelors degree in Computer Information Technology
-					with a minor in Web Design and Development. I will help you in any way I can.</p>
+					<div class ="Project3"><p>...and other days the code is abstract and a jumbled mess...</p></div>
 					
-					<p><span>What are my goals?</span> I plan to incorporate much of what I am learning into the current company I work for 
-					by expanding the online presence of the business.  I will also incorporate my learning by becoming the in house information technology 
-					specialist in our company.  I would also like to learn more computer programming.  I would like to learn 
-					enough to be able to create apps for Android, Apple, and Windows based devices.</p>
+					<div class ="Project4"><p>...the best part about it?  It is all mine.  Sometimes perfect, sometimes abstract, but always me. </p></div>
 			</div>
 		</main>
 		<img class="binary" src="images/binaryhalf.png"></img>
